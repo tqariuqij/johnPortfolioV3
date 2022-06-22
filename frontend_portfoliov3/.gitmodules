@@ -1,0 +1,3 @@
+[submodule "frontend_portfoliov3"]
+	path = frontend_portfoliov3
+	url = https://github.com/tqariuqij/johnPortfolioV3.git
